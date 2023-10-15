@@ -40,7 +40,6 @@ sm
        padding: 0;
        gap: 2em;
        }
-}
 
 .header__link {
        font-size: var(--size-xs);
@@ -78,7 +77,7 @@ sm
 .header__bars {
        display: none;
 }
-
+}
 
 /* lg */
 @media (min-width: 1024px) {
